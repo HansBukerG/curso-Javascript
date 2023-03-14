@@ -1,0 +1,11 @@
+Install project:
+npm init -y
+
+Install Jest:
+npm i -D jest
+
+Install Axios:
+npm i axios
+
+RUN TEST:
+npm test
